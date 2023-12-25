@@ -101,6 +101,10 @@
   align-items: flex-start;
 }
 
+.question:hover {
+  color: #ad28eb;
+}
+
 .icon {
   width: 20px;
   height: 20px;
